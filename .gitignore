@@ -1,0 +1,29 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+*.db-wal
+*.db-shm
+
+# Secrets and local environment variables
+.env
+.env.*
+!.env.example
+
+# Test and log artifacts
+.pytest_cache/
+*.log
+
+# Operating-system files
+.DS_Store
+Thumbs.db

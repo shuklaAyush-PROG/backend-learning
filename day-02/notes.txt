@@ -1,0 +1,2 @@
+Learning Python for backend development.
+Today I am learning file handling.
